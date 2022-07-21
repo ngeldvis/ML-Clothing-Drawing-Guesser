@@ -8,6 +8,9 @@ Draw or upload an image and the program will guess what you drew by making a mac
 - the following python modules
   - opencv-python https://opencv.org
   - tensorflow https://www.tensorflow.org
+  - matplotlib
+ 
+> Note: when installing tensorflow on MacOS using apple silicon make sure to install tensorflow using `pip install tensorflow-macos`
   
 ## Tensorflow
 
